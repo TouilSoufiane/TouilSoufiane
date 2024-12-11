@@ -1,4 +1,4 @@
-[![MasterHead](https://www.menosfios.com/wp-content/uploads/2016/04/software-development-banner.jpg)]
+![MasterHead](https://www.menosfios.com/wp-content/uploads/2016/04/software-development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Soufiane Touil</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
