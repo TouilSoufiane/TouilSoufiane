@@ -1,6 +1,7 @@
 ![MasterHead](https://www.menosfios.com/wp-content/uploads/2016/04/software-development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Soufiane Touil</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/touilsoufiane91" target="blank"><img src="https://img.shields.io/twitter/follow/touilsoufiane91?logo=twitter&style=for-the-badge" alt="touilsoufiane91" /></a> </p>
 
