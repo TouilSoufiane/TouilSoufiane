@@ -16,6 +16,7 @@
 - 📫 How to reach me **soufian.ouriaghlitouil@etu.uae.ac.ma**
 
 <h3 align="left">Connect with me:</h3>
+<h2 align="left">Let’s collaborate, create, and innovate together. The possibilities are endless! 🌌 </h2>
 <p align="left">
 <a href="https://twitter.com/touilsoufiane91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="touilsoufiane91" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soufiane-ouriaghli-touil-55278a166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane-ouriaghli-touil-55278a166/" height="30" width="40" /></a>
@@ -101,6 +102,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
   <br><br>
+  <h3 align="left">⚙️ ERP Wizardry</h3>
+  <p align="left">
+  <strong>Odoo Specialist:</strong> I’ve customized and implemented ERP solutions to streamline operations, from HR to sales, inventory, and accounting. 
+  <br /> 
+  </p>
 
   <!-- Other Tools -->
   <strong>Other Tools:</strong><br>
